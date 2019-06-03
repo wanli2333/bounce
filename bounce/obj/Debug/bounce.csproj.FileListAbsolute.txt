@@ -1,0 +1,37 @@
+E:\C#\bounce\bounce\obj\Debug\bounce.csprojResolveAssemblyReference.cache
+E:\C#\bounce\bounce\obj\Debug\bounce.Properties.Resources.resources
+E:\C#\bounce\bounce\obj\Debug\bounce.csproj.GenerateResource.Cache
+E:\C#\bounce\bounce\bin\Debug\bounce.exe
+E:\C#\bounce\bounce\bin\Debug\bounce.pdb
+E:\C#\bounce\bounce\obj\Debug\bounce.Form1.resources
+E:\C#\bounce\bounce\obj\Debug\bounce.exe
+E:\C#\bounce\bounce\obj\Debug\bounce.pdb
+C:\Users\wanli\Desktop\bounce\bounce\obj\Debug\bounce.exe
+C:\Users\wanli\Desktop\bounce\bounce\obj\Debug\bounce.pdb
+C:\Users\wanli\Desktop\bounce\bounce\bin\Debug\bounce.exe
+C:\Users\wanli\Desktop\bounce\bounce\bin\Debug\bounce.pdb
+C:\Users\wanli\Desktop\bounce\bounce\obj\Debug\bounce.csprojResolveAssemblyReference.cache
+C:\Users\wanli\Desktop\bounce\bounce\obj\Debug\bounce.Form1.resources
+C:\Users\wanli\Desktop\bounce\bounce\obj\Debug\bounce.Properties.Resources.resources
+C:\Users\wanli\Desktop\bounce\bounce\obj\Debug\bounce.csproj.GenerateResource.Cache
+C:\Users\wanli\Desktop\bounce\bounce\obj\Debug\bounce.Form2.resources
+C:\Users\wanli\Desktop\bounce - 副本\bounce\obj\Debug\bounce.exe
+C:\Users\wanli\Desktop\bounce - 副本\bounce\obj\Debug\bounce.pdb
+C:\Users\wanli\Desktop\bounce - 副本\bounce\bin\Debug\bounce.exe
+C:\Users\wanli\Desktop\bounce - 副本\bounce\bin\Debug\bounce.pdb
+C:\Users\wanli\Desktop\bounce - 副本\bounce\obj\Debug\bounce.csprojResolveAssemblyReference.cache
+C:\Users\wanli\Desktop\bounce - 副本\bounce\obj\Debug\bounce.Form1.resources
+C:\Users\wanli\Desktop\bounce - 副本\bounce\obj\Debug\bounce.Form2.resources
+C:\Users\wanli\Desktop\bounce - 副本\bounce\obj\Debug\bounce.Properties.Resources.resources
+C:\Users\wanli\Desktop\bounce - 副本\bounce\obj\Debug\bounce.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\bounce\bounce\obj\Debug\bounce.exe
+C:\Users\Administrator\Desktop\bounce\bounce\obj\Debug\bounce.pdb
+C:\Users\Administrator\Desktop\bounce\bounce\bin\Debug\bounce.exe
+C:\Users\Administrator\Desktop\bounce\bounce\bin\Debug\bounce.pdb
+C:\Users\Administrator\Desktop\bounce\bounce\obj\Debug\bounce.Form1.resources
+C:\Users\Administrator\Desktop\bounce\bounce\obj\Debug\bounce.Form2.resources
+C:\Users\Administrator\Desktop\bounce\bounce\obj\Debug\bounce.Properties.Resources.resources
+C:\Users\Administrator\Desktop\bounce\bounce\obj\Debug\bounce.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\bounce\bounce\obj\Debug\bounce.csprojResolveAssemblyReference.cache
+F:\bounce2\bounce\obj\Debug\bounce.exe
+F:\bounce2\bounce\obj\Debug\bounce.pdb
